@@ -59,6 +59,10 @@ https://colab.research.google.com/drive/10z8jQiQVV5yLg3-n73Z_es980pkcbHl4?usp=sh
 
 ---
 
+## google drive link for the dataset
+### public access link
+https://drive.google.com/file/d/1DvBM7Nt8wnmmabUD018ZJjlM6wyp-LJC/view?usp=sharing
+
 ## Getting Started
 
 ### Running the Chatbot
