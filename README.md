@@ -11,7 +11,7 @@ This project is a Support Agent Chatbot designed to answer "How-to" questions re
 
 ---
 
-![chat ui image](https://github.com/user-attachments/assets/e5018d74-8314-4b39-97bc-b2ed09bc32ea)
+![chat ui image](https://github.com/user-attachments/assets/7b62e25a-b7b7-470b-9a52-ea4c1c6c25a9)
 
 
 ## Tech Stack Used
